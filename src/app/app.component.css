@@ -1,0 +1,10 @@
+p {
+  /* height: 300px; */
+}
+.bounce-layout {
+  align-items: center;
+}
+
+.myCircle:hover {
+  stroke: black;
+}
